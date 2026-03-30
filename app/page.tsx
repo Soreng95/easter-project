@@ -35,6 +35,16 @@ export default function HomePage() {
 
   return (
     <main className="min-h-screen bg-yellow-50 px-6 py-12">
+      <div className="mx-auto mb-6 flex max-w-3xl justify-end">
+        <a
+          href="https://github.com/Soreng95/easter-project/blob/main/app/page.tsx"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="rounded-full border border-gray-300 px-4 py-2 text-sm font-medium text-gray-700 transition hover:bg-gray-100"
+        >
+          GitHub Repo -{">"} Code
+        </a>
+      </div>
       <div className="mx-auto flex min-h-[calc(100vh-6rem)] max-w-3xl flex-col items-center justify-center">
         <div className="w-full rounded-3xl bg-white p-8 shadow-lg sm:p-10">
           <div className="text-center">
