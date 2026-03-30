@@ -4,6 +4,9 @@ This project is created with **TypeScript**, **Next.js (App Router)**, and **Tai
 
 It is a simple interactive game where the user must find the golden egg. The golden egg is randomly selected on each page load.
 
+## Live website
+[https://easter-project.vercel.app/](https://easter-project.vercel.app/)
+
 ## Code
 
 The main logic for the project is located in:
